@@ -1,0 +1,6 @@
+[package]
+name = "tapbpm"
+version = "0.1.0"
+authors = ["augy <augy@email.com>"]
+
+[dependencies]
